@@ -1,0 +1,14 @@
+{
+  "name": "Node server sample",
+  "version": "1.0.0",
+  "description": "basic node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joseph ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.2"
+  }
+}
